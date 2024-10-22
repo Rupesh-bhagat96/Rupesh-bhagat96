@@ -10,13 +10,15 @@ I'm a passionate Frontend Developer with a love for creating beautiful and respo
 
 
 ## 🌱 I’m currently learning
-- java full stack
-- spring & spring boot
+- Java Full Stack Development
+- Spring & Spring boot
+- Database (Mysql)
 
 
 ## 📫 How to reach me
 - Email: rupeshnbhagat96@gmail.com
 - LinkedIn: www.linkedin.com/in/rupeshbhagat
+
 
 
 
