@@ -17,7 +17,7 @@ I'm a passionate Frontend Developer with a love for creating beautiful and respo
 
 ## 📫 How to reach me
 - Email: rupeshnbhagat96@gmail.com
-- LinkedIn: www.linkedin.com/in/rupeshbhagat
+- LinkedIn: https://www.linkedin.com/in/rutuja-chavan-8b9b8132b
 
 
 
